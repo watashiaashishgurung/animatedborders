@@ -92,7 +92,6 @@ h1{
   position: relative;
   left: 0px;
   top: -180px;
-  x;
   margin-bottom: 20px;
 }
 @property --angle {
@@ -145,8 +144,3 @@ h1{
     --angle: 360deg;
   }
 }
-
-
-/*boxes*/
-
-
